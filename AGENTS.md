@@ -1,4 +1,4 @@
-# Instructions for llama.cpp
+# Instructions for Llama-AI-Key
 
 > [!IMPORTANT]
 >
